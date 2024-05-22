@@ -44,6 +44,7 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 </p>
 
 > Gaspedalen voor auto simulatie verbonden via makey makey en keyboard inputs.
+
 > Bevat springveer voor nabootsen pedaal.
 
 <p>
