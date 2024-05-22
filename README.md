@@ -49,7 +49,7 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 <p>
   <img src="Screenshot 2024-05-22 121253.png" width="500" 
      height="auto" />
-  <img src="Screenshot 2024-05-22 121337.png" width="500" 
+  <img src="Screenshot 2024-05-22 121337.png" width="300" 
      height="auto" />
   <img src="Screenshot 2024-05-22 121413.png" width="500" 
      height="auto" />
