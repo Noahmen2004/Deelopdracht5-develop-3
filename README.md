@@ -7,7 +7,7 @@
 ## De hiërarchische taakanalyse
 
 <p>
-  <img src="Screenshot 2024-05-22 104533.png" width="400" 
+  <img src="Screenshot 2024-05-22 104533.png" width="1200" 
      height="auto" />
 
 </p>
@@ -73,11 +73,12 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 - Verbeterde Simulaties: Optimaliseer de simulatieomgeving om beter de werkelijkheid na te bootsen en mogelijke afleidingen beter te testen.
 - Proberen ook eens te testen of een gewone pijl indicatie zoals bij een gps ook even goed werkt.
   <p>
-  <img src="Screenshot 2024-05-22 112655.png" width="1200" 
+  <img src="Screenshot 2024-05-22 112655.png" width="400" 
      height="auto" />
 
 </p>
->In rood de pijl navigatie die ook eens getest zou moeten worden op de HUD.
+
+> In rood de pijl navigatie die ook eens getest zou moeten worden op de HUD.
 
 ## Designrequirements
 
