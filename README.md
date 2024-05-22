@@ -7,7 +7,7 @@
 ## De hiërarchische taakanalyse
 
 <p>
-  <img src="Screenshot 2024-05-22 104533.png" width="500" 
+  <img src="Screenshot 2024-05-22 104533.png" width="1000" 
      height="auto" />
 
 </p>
