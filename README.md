@@ -12,6 +12,8 @@
 
 </p>
 
+> De rood omlijnde vakken in de hiërarchische taakanalyse zijn degenen die we in ons concept hebben aangepast/geoptimaliseerd
+
 ## De testen
 De testen werden uitgevoerd op 2 personen Kai Cherchyd en Warre De Vriendt We hebben 3 verschillende protoypes van een centraal touchscreen (dat functioneert als bedieningspaneel voor de auto) uitgetest op hun. 
 We hebben telkens 1 bedieningspaneel voor hun gezet. In de eerste fase van de test voerden ze een opdracht uit wanneer de auto zogezegd stilstaat. In de tweede fase deden ze dit terwijl de auto zogezegd in beweging is. Hierbij zal er altijd een functie zijn die ervoor zorgt dat het bedieningspaneel niet meer te gebruiken is door de chauffeur.  
