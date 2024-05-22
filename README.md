@@ -36,13 +36,18 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 ## prototype
 
 <p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143533.png" width="500" 
+  <img src="IMG_20240422_171349888.jpg" width="500" 
+     height="auto" />
+
+</p>
+<p>
+  <img src="IMG_20240513_232336434.jpg" width="500" 
      height="auto" />
 
 </p>
 
-> - Polaristiefilm interface
-> - Vanaf dat ze rijden komt er een film over het scherm die ervoor zorgt dat de chauffeur het scherm niet kan zien
+> Gaspedalen voor auto simulatie verbonden via makey makey en keyboard inputs.
+> Bevat springveer voor nabootsen pedaal.
 
 <p>
   <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143758.png" width="500" 
