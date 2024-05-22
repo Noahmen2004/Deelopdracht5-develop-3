@@ -26,7 +26,7 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 - Probeer tijdens het rijden toch nog te kijken naar het afgedekt(gepolariseerd scherm) en toch nog de auto proberen te besturen.
 
 
-## prototypes
+## prototype
 
 <p>
   <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143533.png" width="500" 
@@ -47,66 +47,31 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 > - Vanaf dat ze rijden draait het scherm naar de medepassgier zoadat de chauffeur het scherm niet kan zien
 
 
-## Evaluatie door middel van de 10 heuristieken van Nielsen 
+## Evaluatie van test
 
-#### <u>Warre De Vriendt:<u/>
+#### Pluspunten:
 
-Prototype 1 draaiende interfaces:
+- Duidelijke navigatie-indicatie via HUD.
+- Eenvoudig en intuïtief gebruik van de draaiknoppen.
+- Verminderde stress door duidelijke aanwijzingen.
+  
+#### Minpunten:
 
-<p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120050.png" width="500" 
-     height="auto" />
+- Afleiding van de verkeerslichten in de simulatie.
+- Nood aan duidelijke indicaties voor de draaiknoppen (wat is hun functie) en alarm signalen voor ongewenst gedrag.
 
-</p>
-
-Prototype 2 polarisatie interface:
-
-<p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120103.png" width="500" 
-     height="auto" />
-
-</p>
-
-
-Prototype 3  schuivende interface:
-
-<p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120119.png" width="500" 
-     height="auto" />
-
-</p>
-
-#### <u>Kai Cerchyd:<u/>
-
-Prototype 1 draaiende interfaces:
-
-<p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120119.png" width="500" 
-     height="auto" />
-
-</p>
-
-
-Prototype 2 polarisatie interface:
-
-<p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120136.png" width="500" 
-     height="auto" />
-
-</p>
-
-
-Prototype 3  schuivende interface:
-
-<p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20120149.png" width="500" 
-     height="auto" />
-
-</p>
-
-## Samenvatting
-
-Beide geïnterviewden geven de voorkeur aan de polarisatie-interface omdat deze het eenvoudigst en meest intuïtief is. De schuivende interface wordt gezien als een beter alternatief dan het draaiende scherm vanwege de verminderde afleiding voor de bestuurder. Dit omadat het makkelijker is om foutief toch naar de draaiende interface te kijken (want deze blijft centraal staan) dan bij de schuivende interface(waar de interface weg van de chauffeur schuift).  Er zijn zorgen over de zichtbaarheid en documentatie bij de schuivende interface en suggesties voor foutpreventie bij alle prototypes.
+#### Conclusies
+- Veiligheid: Het systeem heeft potentieel om de veiligheid te verbeteren door minder afleidend te zijn dan traditionele schermen.
+- Gebruiksgemak: De draaiknoppen werden als zeer gebruiksvriendelijk en intuïtief ervaren.
+- Effectiviteit van HUD: De HUD biedt duidelijke navigatie en instructies, wat de bestuurder helpt om de blik op de weg te houden.
+- Aanpassingen Nodig: Implementatie van waarschuwingen voor gevaar en afstand, en alarmsignalen voor het ongewenst kijken naar het centrale scherm.
+  
+#### Aanbevelingen
+- Reële Testomstandigheden: Voer verdere tests uit in echte rijomstandigheden om de effectiviteit en veiligheid van het systeem te valideren. Want simulatie had nog verschillen met het effeectief gebruik van een auto.
+- Waarschuwingen en Signalen: Implementeer duidelijke waarschuwingen voor gevaar en alarmsignalen om ongewenst gedrag te corrigeren(zoals indicaties als er dichtbij de auto een ongevval gaat gebeuren).
+- Indicatielabels: Voorzie duidelijke labels of visuele aanwijzingen voor de functies van de draaiknoppen.
+- Verbeterde Simulaties: Optimaliseer de simulatieomgeving om beter de werkelijkheid na te bootsen en mogelijke afleidingen beter te testen.
+- Proberen ook een ste testen of een gewone pijl indicatie zoals bij een gps ook even goed werkt.
 
 ## Designrequirements
 
@@ -124,16 +89,21 @@ Beide geïnterviewden geven de voorkeur aan de polarisatie-interface omdat deze 
   
 ## Ontwerpbeslissingen
 
-#### Keuze van Interface Type:
-- Polarisatie Interface: Wordt sterk aanbevolen vanwege de eenvoud en intuïtiviteit, en vermindert de kans dat de bestuurder probeert het scherm te bekijken.
+#### 1. HUD (Heads-Up Display)
+- Blauwe Navigatielijnen: De HUD moet duidelijke, goed zichtbare navigatielijnen bevatten om de bestuurder effectief te begeleiden.
+- Waarschuwingspictogrammen: Het is nodig om pictogrammen toe te voegen voor gevaren, zoals een uitroepteken, en afstandsindicaties om de bestuurder te waarschuwen voor grote risico's. Alleen grote risicos anders te veel aan het gebeuren op de HUD.
+- 
+#### 2. Draaiknoppen
+- Blindelings Bedienbaar: De draaiknoppen moeten zo ontworpen worden dat ze eenvoudig en intuïtief te gebruiken zijn zonder dat de bestuurder ernaar hoeft te kijken. Dit kan worden bereikt door texturen of vormverschillen aan de knoppen toe te voegen.
+- Duidelijke Labels: Er moeten duidelijke visuele indicaties en labels bij de knoppen zijn om hun functies meteen duidelijk te maken.
+- 
+#### 3. Centrale Scherm
+- Polarisatie: Het centrale scherm moet een polarisatiefilm hebben dat zichtbaar is voor de passagier en niet voor de bestuurder tijdens het rijden.
+- Alarm Signaal: Een alarm signaal moet worden toegevoegd dat afgaat als de bestuurder probeert naar het centrale scherm te kijken tijdens het rijden.
 
-#### Gebruikersfeedback en Interactie:
-- Eenvoudige Bedienbaarheid: De interface moet gebruiksvriendelijk zijn en ontworpen voor snel en intuïtief gebruik zonder uitgebreide training.
-- Foutenherkenning en -herstel: Ingebouwde mechanismen voor het herkennen en herstellen van fouten, zoals pop-up meldingen of geluidssignalen wanneer de bestuurder probeert het scherm te 
-  gebruiken tijdens het rijden.
-
-#### Documentatie en Help Functie:
-- Help en Documentatie: Zorg voor duidelijke documentatie en een gemakkelijk toegankelijke helpfunctie binnen de interface voor het geval er iets misgaat
+#### 4. Verhoogde Interactie
+- Gebruik van Google Home en Spotify: Gebruiksvriendelijke interfaces zoals Google Home en Spotify moeten geïntegreerd worden, die makkelijk via de HUD of spraak bediend kunnen worden.
+- Temperatuur en Volume Aanpassingen: Temperatuur- en volume-aanpassingen moeten eenvoudig via de draaiknoppen bediend kunnen worden zonder afleiding.
 
 ## Bijlagen
 Protocol: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit <br>
