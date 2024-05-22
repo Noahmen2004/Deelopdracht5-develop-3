@@ -68,6 +68,10 @@ Alle inputs worden dan gebruikt voor een game aan te sturen met de juiste HUD in
 
 > Een 3d print van 2 rotatie knoppen met klik die respectievelijk de temperatuur en het volume moeten besturen.
 
+https://youtu.be/4ao7_wawhSE 
+
+>Wizard of Oz testing van voice activation.
+
 ## Evaluatie van test
 
 #### Pluspunten:
@@ -127,8 +131,8 @@ Alle inputs worden dan gebruikt voor een game aan te sturen met de juiste HUD in
 
 ## Bijlagen
 Protocol: https://docs.google.com/document/d/1Q-Gr13mFpRs562zWZIK_h5xHHILlJB6Ak3FmDEnZr0A/edit](https://docs.google.com/document/d/1sfkKEzGefGyymbCcsQPU5--OPLnl1MAa4-cfkQpwE7U/edit <br>
-Videos tests: - https://youtu.be/LqED6phG2a4<br>
-              - https://youtu.be/_Iaf5eOsnbs <br>
+Videos tests: - https://youtu.be/1y1DYpjq5To<br>
+              
 
 
 
