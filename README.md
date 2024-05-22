@@ -25,6 +25,11 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 - Ga naar liedje spotify en leg het derde nummer op via google home
 - Probeer tijdens het rijden toch nog te kijken naar het afgedekt(gepolariseerd scherm) en toch nog de auto proberen te besturen.
 
+<p>
+  <img src="Screenshot 2024-05-22 120556.png" width="300" 
+     height="auto" />
+
+</p>
 
 ## prototype
 
