@@ -38,9 +38,6 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 <p>
   <img src="IMG_20240422_171349888.jpg" width="500" 
      height="auto" />
-
-</p>
-<p>
   <img src="IMG_20240513_232336434.jpg" width="500" 
      height="auto" />
 
