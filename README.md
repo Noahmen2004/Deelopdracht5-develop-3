@@ -71,7 +71,13 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 - Waarschuwingen en Signalen: Implementeer duidelijke waarschuwingen voor gevaar en alarmsignalen om ongewenst gedrag te corrigeren(zoals indicaties als er dichtbij de auto een ongevval gaat gebeuren).
 - Indicatielabels: Voorzie duidelijke labels of visuele aanwijzingen voor de functies van de draaiknoppen.
 - Verbeterde Simulaties: Optimaliseer de simulatieomgeving om beter de werkelijkheid na te bootsen en mogelijke afleidingen beter te testen.
-- Proberen ook een ste testen of een gewone pijl indicatie zoals bij een gps ook even goed werkt.
+- Proberen ook eens te testen of een gewone pijl indicatie zoals bij een gps ook even goed werkt.
+  <p>
+  <img src="Screenshot 2024-05-22 112655.png" width="1200" 
+     height="auto" />
+
+</p>
+>In rood de pijl navigatie die ook eens getest zou moeten worden op de HUD.
 
 ## Designrequirements
 
