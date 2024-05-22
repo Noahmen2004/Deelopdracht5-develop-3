@@ -73,7 +73,7 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 - Verbeterde Simulaties: Optimaliseer de simulatieomgeving om beter de werkelijkheid na te bootsen en mogelijke afleidingen beter te testen.
 - Proberen ook eens te testen of een gewone pijl indicatie zoals bij een gps ook even goed werkt.
   <p>
-  <img src="Screenshot 2024-05-22 112655.png" width="400" 
+  <img src="Screenshot 2024-05-22 112655.png" width="250" 
      height="auto" />
 
 </p>
@@ -82,18 +82,10 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
 
 ## Designrequirements
 
-#### Zijdelingse Verplaatsing:
-- Het scherm moet volledig buiten het gezichtsveld van de bestuurder kunnen verschuiven wanneer de auto in beweging is, zodat afleiding geminimaliseerd wordt.
+#### - HUD met Duidelijke Navigatielijnen en Waarschuwingen
+#### - Intuïtief Bedienbare Draaiknoppen
+#### - Gepolariseerd Centraal Scherm met Alarm Signaal
 
-#### Foutenherkenning en -herstel:
-- Ingebouwde mechanismen voor het herkennen en herstellen van fouten, zoals pop-up meldingen of geluidssignalen wanneer de bestuurder probeert het scherm te gebruiken tijdens het rijden.
-  
-#### Minimalistisch Design:
-- Vermijd overmatige visuele elementen en houd de interface strak en overzichtelijk om afleiding te minimaliseren.
-
-#### Error Prevention:
-- Zorg voor error prevention door eventueel een melding te geven als je toch naar het centraal touchscreen probeert te kijken.
-  
 ## Ontwerpbeslissingen
 
 #### 1. HUD (Heads-Up Display)
