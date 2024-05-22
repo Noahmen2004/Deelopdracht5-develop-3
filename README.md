@@ -47,14 +47,26 @@ We hebben 1 systeem voor de test personen gezet. In de eerste fase voerden ze ee
  Bevat springveer voor nabootsen pedaal.
 
 <p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143758.png" width="500" 
+  <img src="Screenshot 2024-05-22 121253.png" width="500" 
+     height="auto" />
+  <img src="Screenshot 2024-05-22 121337.png" width="500" 
+     height="auto" />
+  <img src="Screenshot 2024-05-22 121413.png" width="500" 
      height="auto" />
 
 </p>
 
-> - Draaiende interface
-> - Vanaf dat ze rijden draait het scherm naar de medepassgier zoadat de chauffeur het scherm niet kan zien
+> Stuur uit karton dat via een 3d print aan een ps4 controller verbonden is.<br>
+De 3d print zet te rotatie beweging om naar een translatie beweging die de joystick bestuurd.<br>
+Alle inputs worden dan gebruikt voor een game aan te sturen met de juiste HUD instellingen. 
 
+<p>
+  <img src="Screenshot 2024-05-22 121317.png" width="500" 
+     height="auto" />
+     
+</p>
+
+> Een 3d print van 2 rotatie knoppen met klik die respectievelijk de temperatuur en het volume moeten besturen.
 
 ## Evaluatie van test
 
