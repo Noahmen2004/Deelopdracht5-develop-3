@@ -7,7 +7,7 @@
 ## De hiërarchische taakanalyse
 
 <p>
-  <img src="https://github.com/Noahmen2004/Deelopdracht-4-develop-2-Expert-tests/blob/main/Screenshot%202024-05-21%20143533.pnghttps://github.com/Noahmen2004/Deelopdracht5-develop-3/blob/main/Screenshot%202024-05-22%20104533.png" width="500" 
+  <img src="Screenshot 2024-05-22 104533.png" width="500" 
      height="auto" />
 
 </p>
